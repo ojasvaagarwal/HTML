@@ -1,2 +1,2 @@
 # HTML
-To learn.
+To learn more and practice.
